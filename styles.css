@@ -1,0 +1,11 @@
+/* Target the whole body of the HTML document */
+body {
+  background-color: #f0f0f0; /* Light grey background */
+  font-family: Arial, sans-serif; /* Sets a simple font */
+}
+
+/* Target all H1 headings */
+h1 {
+  color: blue; /* Sets the text color to blue */
+  text-align: center; /* Centers the text */
+}
